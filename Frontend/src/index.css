@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;600&family=Inter:wght@300;400;500&family=JetBrains+Mono&display=swap');
+
+:root {
+  --bg: #0a090c;
+  --gold: #c9a961;
+  --burgundy: #6b2533;
+  --text: #e8e1d4;
+}
+
+body {
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+  background: var(--bg);
+  color: var(--text);
+}
